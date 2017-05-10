@@ -29,13 +29,13 @@
 		4E8C5D781E6EBC2F002CC1EF /* KBLiveUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E8C5D771E6EBC2F002CC1EF /* KBLiveUITests.m */; };
 		4E8C5D8C1E6EBD3E002CC1EF /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E8C5D8B1E6EBD3E002CC1EF /* HomeViewController.m */; };
 		4E8C5D8F1E6EBFE9002CC1EF /* LivePlayerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E8C5D8E1E6EBFE9002CC1EF /* LivePlayerController.m */; };
-		4E8C5D911E6EC05B002CC1EF /* IJKMediaFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8C5D901E6EC05B002CC1EF /* IJKMediaFramework.framework */; };
 		4E972DE01E8B5F5700A4F0AA /* libstdc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E972DDF1E8B5F5700A4F0AA /* libstdc++.tbd */; };
 		4E9EF74C1E8A3DF000E64FEF /* LFLivePreview.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E9EF74B1E8A3DF000E64FEF /* LFLivePreview.m */; };
 		4E9EF7521E8A3E4300E64FEF /* UIControl+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E9EF74F1E8A3E4300E64FEF /* UIControl+YYAdd.m */; };
 		4E9EF7531E8A3E4300E64FEF /* UIView+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E9EF7511E8A3E4300E64FEF /* UIView+YYAdd.m */; };
 		4EFB59E31E8FA66700F156A4 /* KBRefreshHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EFB59E21E8FA66700F156A4 /* KBRefreshHeader.m */; };
 		82AFEC108A53000103967128 /* libPods-KBLiveUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 055335C94C2A7C4EEB3C3289 /* libPods-KBLiveUITests.a */; };
+		9E5338CB1EC1B5D60072FD04 /* IJKMediaFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E5338CA1EC1B5D60072FD04 /* IJKMediaFramework.framework */; };
 		E23D960141CFEE0D40B346B5 /* libPods-KBLive.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 583A746345358254445B0F06 /* libPods-KBLive.a */; };
 /* End PBXBuildFile section */
 
@@ -94,7 +94,6 @@
 		4E8C5D8B1E6EBD3E002CC1EF /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		4E8C5D8D1E6EBFE9002CC1EF /* LivePlayerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LivePlayerController.h; sourceTree = "<group>"; };
 		4E8C5D8E1E6EBFE9002CC1EF /* LivePlayerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LivePlayerController.m; sourceTree = "<group>"; };
-		4E8C5D901E6EC05B002CC1EF /* IJKMediaFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IJKMediaFramework.framework; sourceTree = "<group>"; };
 		4E972DDF1E8B5F5700A4F0AA /* libstdc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.tbd"; path = "usr/lib/libstdc++.tbd"; sourceTree = SDKROOT; };
 		4E9EF74A1E8A3DF000E64FEF /* LFLivePreview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LFLivePreview.h; sourceTree = "<group>"; };
 		4E9EF74B1E8A3DF000E64FEF /* LFLivePreview.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LFLivePreview.m; sourceTree = "<group>"; };
@@ -107,6 +106,7 @@
 		583A746345358254445B0F06 /* libPods-KBLive.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KBLive.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B9D3A7FFA88625D37F6F6BF /* libPods-KBLiveTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KBLiveTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D160DA2B5A1537F031E4CC2 /* Pods-KBLiveTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KBLiveTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KBLiveTests/Pods-KBLiveTests.debug.xcconfig"; sourceTree = "<group>"; };
+		9E5338CA1EC1B5D60072FD04 /* IJKMediaFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IJKMediaFramework.framework; sourceTree = "<group>"; };
 		AB28767ED69A7CF42CD34A9B /* Pods-KBLive.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KBLive.release.xcconfig"; path = "Pods/Target Support Files/Pods-KBLive/Pods-KBLive.release.xcconfig"; sourceTree = "<group>"; };
 		BB5663BAD6B82FE79BD5E43C /* Pods-KBLive.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KBLive.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KBLive/Pods-KBLive.debug.xcconfig"; sourceTree = "<group>"; };
 		C96ECD0CBE2D1D2ED74A83DB /* Pods-KBLiveUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KBLiveUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-KBLiveUITests/Pods-KBLiveUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -117,6 +117,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E5338CB1EC1B5D60072FD04 /* IJKMediaFramework.framework in Frameworks */,
 				4E972DE01E8B5F5700A4F0AA /* libstdc++.tbd in Frameworks */,
 				4E3831D21E6EE05900085B1C /* AVFoundation.framework in Frameworks */,
 				4E3831E21E6EE0AD00085B1C /* VideoToolbox.framework in Frameworks */,
@@ -128,7 +129,6 @@
 				4E3831D61E6EE06800085B1C /* CoreVideo.framework in Frameworks */,
 				4E3831D41E6EE06100085B1C /* CoreMedia.framework in Frameworks */,
 				4E3831D01E6EE05300085B1C /* AudioToolbox.framework in Frameworks */,
-				4E8C5D911E6EC05B002CC1EF /* IJKMediaFramework.framework in Frameworks */,
 				E23D960141CFEE0D40B346B5 /* libPods-KBLive.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -220,7 +220,7 @@
 		4E8C5D851E6EBC4C002CC1EF /* Lib */ = {
 			isa = PBXGroup;
 			children = (
-				4E8C5D901E6EC05B002CC1EF /* IJKMediaFramework.framework */,
+				9E5338CA1EC1B5D60072FD04 /* IJKMediaFramework.framework */,
 			);
 			path = Lib;
 			sourceTree = "<group>";
@@ -391,7 +391,7 @@
 				TargetAttributes = {
 					4E8C5D4E1E6EBC2E002CC1EF = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = WD85TJV3BR;
+						DevelopmentTeam = 5B36ATDCUA;
 						ProvisioningStyle = Automatic;
 					};
 					4E8C5D671E6EBC2E002CC1EF = {
@@ -738,16 +738,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = WD85TJV3BR;
+				DEVELOPMENT_TEAM = 5B36ATDCUA;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
+					"$(PROJECT_DIR)/Lib",
 					"$(PROJECT_DIR)/KBLive/Lib",
 				);
 				GCC_PREFIX_HEADER = KBLive/KBLive.pch;
 				INFOPLIST_FILE = KBLive/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "kangbing.KBLive--";
+				PRODUCT_BUNDLE_IDENTIFIER = kangbing.KBLive;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -759,16 +760,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = WD85TJV3BR;
+				DEVELOPMENT_TEAM = 5B36ATDCUA;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
+					"$(PROJECT_DIR)/Lib",
 					"$(PROJECT_DIR)/KBLive/Lib",
 				);
 				GCC_PREFIX_HEADER = KBLive/KBLive.pch;
 				INFOPLIST_FILE = KBLive/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "kangbing.KBLive--";
+				PRODUCT_BUNDLE_IDENTIFIER = kangbing.KBLive;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
